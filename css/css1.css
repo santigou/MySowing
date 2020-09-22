@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #413e3d;
+    background-color: #3C3C3C;
 
 }
 
@@ -80,50 +80,37 @@ body{
 }
 
 /* Fin Codigo Barra de Navegación */
-
-
-/* body */
 .fondotexto{
-  background-color: #4e4643;   
-  width: 80%;
-  height: 500px;
-  margin: 55px 120px 55px 120px; 
-  padding: 3px 10px;
-  border: #756b67 5px double;
-  border-radius: 20px;
-}
-
-#texto1{
-    width:519px;
+    background-color: #2E2D2D ;   
+    width:1210px;
     height: 500px;
-    margin-left: 80px; 
-    font-family: 'Roboto Slab', serif;
-    font-size: 1.4em;
-    color: white;
-    
-}    
-
-#texto2{
-    width:519px;
-    height: 500px;
-    margin-left: 80px; 
-    font-family: 'Roboto Slab', serif;
-    font-size: 1.4em;
-    color: white;
-}
-#imagen1{
-    width:400px;
-    height: 220px; 
-    margin-left: 620px; 
-    margin-top: -300px;
+    margin-left: 50px; 
     border-radius: 20px;
 }
 
-#imagen2{
-   width:400px;
-   height: 220px;
-   margin-left: 40px; 
-   margin-top: -240px;
-   border-radius: 20px;
-   
+#texto1{
+    font-family:Comic Sans MS,arial,verdana;
+    color: white;
+    width:410px;
+    margin-top: 10px;
+    margin-left: 718px; 
+    font-size: 26px;
+    text-align: justify;
+}    
+
+
+#imagen1{
+    width:600px;
+    height: 450px; 
+    margin-left: 20px;
+    margin-top: -287px;
+    border-radius: 20px;
+}
+
+
+#banner{
+    height: 500px;
+    width: 1200px;
+    margin-left: 50px; 
+    border-radius: 20px;
 }
